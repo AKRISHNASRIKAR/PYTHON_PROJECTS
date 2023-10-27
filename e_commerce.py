@@ -1,3 +1,6 @@
+# E-Commerce
+# from 276 (error)
+
 django-admin startproject OnlineShopping
 
 cd OnlineShopping
