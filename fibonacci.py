@@ -14,3 +14,4 @@ def fib(n):
             x,y = y,x+y
 
 fib(n)
+#enter the required no. of terms, for if entered upto 2 terms,  answer will be (0,1,1)
